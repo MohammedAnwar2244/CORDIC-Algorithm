@@ -4,7 +4,7 @@ module CORDIC_tb;
 
     // Parameters
     parameter WIDTH  = 32;
-    parameter N_ITER = 10;
+    parameter N_ITER = 10 ;
 
     // Signals
     reg                  clk;
